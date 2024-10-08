@@ -1,7 +1,7 @@
 # NotificationsAzure
 Transmitting notifications/events from PostgreSQL to web browsers via Message Oriented Middleware (Azure Service Bus) and Events, on Microsoft Azure.
 
-**File "Notifications and messages from PostgreSQL to ASP.NET Core Web App - v.1.0.1.docx":**
+**File "Notifications and messages from PostgreSQL to ASP.NET Core Web App - v.2.0.0.pdf":**
 
 Full description of the asset and of the different demo projects involved.
 
